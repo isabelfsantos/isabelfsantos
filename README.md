@@ -35,7 +35,7 @@ I also serve as President of **GMAPS** (George Mason Astronomy and Physics Socie
 ### 📂 Selected Projects
 
 #### Particle Transport & Diffusion Simulation
-A computational project modeling particle transport and diffusion through media using random-walk and Monte Carlo methods[cite: 1].
+A computational project modeling particle transport and diffusion through media using random-walk and Monte Carlo methods.
 - **Tech:** Python, NumPy, Matplotlib
 
 #### Analog Signal & Circuit Analysis
