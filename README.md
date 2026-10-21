@@ -1,37 +1,49 @@
-# Hi, I'm Isabel Santos
+# Hi, I'm Isabel Santos 👋
 
-*Studying the physical world, from deep Earth processes to high-energy particles, using computer modeling.*
+*Undergraduate Physics Student at George Mason University | Experimental, Particle & Nuclear Physics*
 
-![Physics Student | George Mason University](https://img.shields.io/badge/Physics%20Student-George%20Mason%20University-blue?style=flat&logo=physics&logoColor=white) ![Multidisciplinary | Neuroscience Background](https://img.shields.io/badge/Multidisciplinary-Neuroscience%20Background-brightgreen?style=flat&logo=brain&logoColor=white) ![Undergrad Researcher | Geophysics & Particle Physics](https://img.shields.io/badge/Undergrad%20Researcher-Geophysics%20%26%20Particle%20Physics-orange?style=flat&logo=science&logoColor=white)
+[![Physics Undergrad](https://img.shields.io/badge/Physics-George_Mason_University-006633.svg)](https://science.gmu.edu/)
+[![Leadership](https://img.shields.io/badge/President-GMAPS-1f425f.svg)](#)
+[![Focus](https://img.shields.io/badge/Focus-Experimental_%26_Particle_Physics-003366.svg)](#)
 
 ---
 
-I am an undergraduate Physics student at George Mason University with a background in neuroscience. My primary research interests are in **geophysics, nuclear physics, and high energy physics**. I use scientific programming and computer models as tools to better understand complex physical systems and connect theoretical math with real-world observations.
+### 🔬 Overview
 
-Outside of my coursework, I am dedicated to building a strong scientific community on campus. I currently serve as an officer for the **Physics and Astronomy Society (PAS)**.
+I am an undergraduate Physics major at George Mason University focusing on experimental, particle, and nuclear physics. I treat computation as a practical laboratory tool, using Python and scientific libraries to handle data acquisition, signal processing, and numerical modeling.
 
-### 🔬 Academic & Research Focus
-* **Geophysics & Paleoclimatology:** Using computer models to understand physical systems, such as tracking particle movement in ice cores.
-* **Nuclear & High Energy Physics:** Writing code to analyze complex, large-scale particle interactions.
-* **Computational Methods:** Using probability (like Monte Carlo methods) and data visualization to solve physics problems.
+I also serve as President of **GMAPS** (George Mason Astronomy and Physics Society, formerly PAS & FOTO), where I run chapter operations and oversee our academic programs.
 
-### 📚 Independent Study
-Beyond my standard classes, my current independent reading and research focuses on:
-* **Cosmogenic Nuclide Dating & Glaciology:** Studying how isotopes (like Al-26 and Be-10) can help date glacial movements and trace climate history.
-* **Applied Particle Physics:** Learning about non-destructive imaging techniques, such as using muons to look inside physical structures.
-* **High-Energy Infrastructure:** Following the development of next-generation particle accelerators, like the Future Circular Collider (FCC). 
+---
 
-### 💻 Technical Stack
+### 🏛️ GMAPS Leadership & Organization
 
-**Languages & Environments** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat&logo=julia&logoColor=white)
+- **GitHub Organization Management:** Maintain the official GMAPS GitHub organization, housing course materials, project templates, and shared resources for physics and astronomy students.
+- **Club Computational Courses:** Organize and deliver club-developed workshops covering essential computational tools for physics majors (Python, NumPy, SciPy, data fitting, Git, and $\LaTeX$).
+- **Collaborative Research Oversight:** Supervise club-led independent research initiatives, helping teams organize workflows, scope technical goals, and interpret experimental data.
 
-**Scientific Libraries** ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+---
 
-**Formatting & Documentation** ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+### 🛠️ Skills & Tools
 
-**Future Roadmap** ![Fortran](https://img.shields.io/badge/Fortran-734F96?style=flat&logo=fortran&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- **Computing & Analysis:** Python (NumPy, SciPy, Matplotlib, Pandas), Git/GitHub, Linux, Markdown
+- **Documentation:** $\LaTeX$ (lab reports, derivations, technical writeups)
+- **Laboratory:** Analog bench testing, signal filtering (RC circuits, diode responses), data logging, error propagation
 
-### 🚀 Featured Project: Paleoclimatology Ice Core Diffusion
-A simulation that maps climate data using a Random Walk model. This project models how particles move in ice cores over time to help us understand past climate shifts. 
-* **Methodology:** Used a statistical Random Walk approach instead of traditional heat equations to keep the complexity of the particle movement manageable.
-* **Tech:** Python, Matplotlib for data visualization.
+---
+
+### 📂 Selected Projects
+
+#### Particle Transport & Diffusion Simulation
+A computational project modeling particle transport and diffusion through media using random-walk and Monte Carlo methods[cite: 1].
+- **Tech:** Python, NumPy, Matplotlib
+
+#### Analog Signal & Circuit Analysis
+Laboratory data acquisition and parameter fitting for analog filter networks and diode response curves, documented with complete error analysis in $\LaTeX$.
+- **Tech:** Bench test instrumentation, Python, $\LaTeX$
+
+---
+
+### 📍 Current Focus
+- Upper-level experimental lab coursework and classical electrodynamics.
+- Expanding project materials and computational modules within the GMAPS repository.
